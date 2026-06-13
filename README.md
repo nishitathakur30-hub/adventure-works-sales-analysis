@@ -31,7 +31,7 @@ This project is an end-to-end data analysis case study built on the **Adventure 
 - Identify repeat customers and customer retention trends
 - Identify top customers based on sales and profit contribution
 - Analyze customer purchasing behavior across different markets
-  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
+  ![Customer Analysis](https://github.com/nishitathakur30-hub/adventure-works-sales-analysis/blob/main/Customer%20Analysis.png)
 
 ### Page 4: Product & Regional Analysis
 - Analyze sales performance by product category and subcategory
