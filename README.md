@@ -24,7 +24,7 @@ This project is an end-to-end data analysis case study built on the **Adventure 
 - Identify seasonal patterns and peak sales periods
 - Compare sales, production cost, and profit trends over time
 - Monitor overall business growth and performance changes
-  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
+  ![Time series analysis](https://github.com/nishitathakur30-hub/adventure-works-sales-analysis/blob/main/Time%20Series%20Analysis.png)
 
 ### Page 3: Customer Analysis
 - Analyze customer distribution across regions and countries
