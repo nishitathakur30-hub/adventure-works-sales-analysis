@@ -17,7 +17,7 @@ This project is an end-to-end data analysis case study built on the **Adventure 
 - Compare sales contribution across different region groups
 - Identify top-performing product categories based on sales
 - Analyze customer distribution across regions to understand market presence
-  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
+  ![Overview](https://github.com/nishitathakur30-hub/adventure-works-sales-analysis/blob/main/Overview.png)
 
 ### Page 2: Time Series Analysis
 - Analyze yearly, quarterly, and monthly sales trends
