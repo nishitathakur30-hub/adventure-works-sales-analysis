@@ -38,7 +38,7 @@ This project is an end-to-end data analysis case study built on the **Adventure 
 - Identify top-selling and high-profit products
 - Detect low-profit or loss-making products for cost reduction
 - Compare regional sales and profit performance to identify top-performing markets
-  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
+  ![Product & Regional Analysis](https://github.com/nishitathakur30-hub/adventure-works-sales-analysis/blob/main/Product%20%26%20Regional%20Analysis.png)
 
 ## Tools Used
 - **Excel** – Data cleaning, calculated fields, pivot tables, and charts
