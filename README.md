@@ -17,24 +17,28 @@ This project is an end-to-end data analysis case study built on the **Adventure 
 - Compare sales contribution across different region groups
 - Identify top-performing product categories based on sales
 - Analyze customer distribution across regions to understand market presence
+  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
 
 ### Page 2: Time Series Analysis
 - Analyze yearly, quarterly, and monthly sales trends
 - Identify seasonal patterns and peak sales periods
 - Compare sales, production cost, and profit trends over time
 - Monitor overall business growth and performance changes
+  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
 
 ### Page 3: Customer Analysis
 - Analyze customer distribution across regions and countries
 - Identify repeat customers and customer retention trends
 - Identify top customers based on sales and profit contribution
 - Analyze customer purchasing behavior across different markets
+  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
 
 ### Page 4: Product & Regional Analysis
 - Analyze sales performance by product category and subcategory
 - Identify top-selling and high-profit products
 - Detect low-profit or loss-making products for cost reduction
 - Compare regional sales and profit performance to identify top-performing markets
+  ![image](https://github.com/yourusername/repo/assets/.../filename.png)
 
 ## Tools Used
 - **Excel** – Data cleaning, calculated fields, pivot tables, and charts
